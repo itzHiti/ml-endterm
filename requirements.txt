@@ -1,3 +1,13 @@
-pandas
-numpy
-kagglehub[pandas-datasets]
+# main deps
+numpy>=1.22.0
+pandas>=1.4.0
+matplotlib>=3.5.0
+scikit-learn>=1.0.0
+xgboost>=1.5.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# additional
+seaborn>=0.11.0
